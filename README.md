@@ -1,9 +1,9 @@
  ```
-    # Medical Workflow AI Agent
+# Medical Workflow AI Agent
 
-    This project implements a modular AI-powered medical workflow system using Python and LangChain to process patient symptoms, generate diagnoses, recommend medications, and coordinate follow-up care through a chain of specialized agents. The Medical Workflow AI Agent simulates a medical consultation pipeline using multiple AI agents. Each agent handles a specific task, from symptom analysis to follow-up recommendations. The system supports running the full workflow or individual agents via an interactive command-line interface.
+This project implements a modular AI-powered medical workflow system using Python and LangChain to process patient symptoms, generate diagnoses, recommend medications, and coordinate follow-up care through a chain of specialized agents. The Medical Workflow AI Agent simulates a medical consultation pipeline using multiple AI agents. Each agent handles a specific task, from symptom analysis to follow-up recommendations. The system supports running the full workflow or individual agents via an interactive command-line interface.
 
-    ## Features
+## Features
 
     - **Interactive CLI**: Choose to run the full workflow or individual agents with user-provided inputs.
     - **Modular Agents**: Four specialized agents:
